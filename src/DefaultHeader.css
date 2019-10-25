@@ -1,0 +1,13 @@
+#title{
+    font-size: 25px;
+    margin-top: 7px;
+    color: white;
+    text-align: center;
+    font-family: "Playfair Display";
+}
+
+#titleDiv{
+    background-color: #20a8d8;
+    width: 200px;
+    height: 55px;
+}
